@@ -19,3 +19,5 @@ relation = ['osananajimi','rival','enemy','boss','subordinate','master','slave',
 #personality
 personality = ['yandere','tsundere','megadere','cool','cynical','active','hikikomori','nerd']
 
+#hairstyle
+hstyle = ['포니테일','단발','트윈테일','칼단발','픽시컷','히메컷','숏컷','웨이브','직 장발','']
