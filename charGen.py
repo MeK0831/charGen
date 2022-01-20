@@ -102,3 +102,6 @@ if __name__ == '__main__':
        print('헤어 색상: ', get_hcolor())
        print('눈 색상: ', get_ecolor())
        print('가슴 크기: ', get_bsize())
+
+
+#
